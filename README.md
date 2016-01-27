@@ -1,4 +1,7 @@
 # "Getting And Cleaning Data" Course Project
+
+Coursera "Getting and Cleaning Data" (John Hopkins) course  
+Course Project  
 Jon Ide
 
 ### Project instructions:
